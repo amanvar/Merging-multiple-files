@@ -6,7 +6,7 @@ How to run
 
 $ python code.py
 
--> It will show you "Enter no. of files do you want to merge".
+-> It will show you "Enter no. of files you want to merge".
 
 -> Now enter the file names you want to merge.
 
