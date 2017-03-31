@@ -1,4 +1,4 @@
-t=input("Enter no. of files do want to merge\n")
+t=input("Enter no. of files do you want to merge\n")
 filenames =[]
 print "Enter file names"
 for i in range(1,t+1)	:
